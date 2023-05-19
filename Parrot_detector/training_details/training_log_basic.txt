@@ -1,0 +1,121 @@
+Epoch 1, train loss: 0.0426, val accuracy: 0.9949
+              precision    recall  f1-score   support
+
+           0     0.9979    0.9899    0.9939      5273
+           1     0.9819    0.9975    0.9896      2394
+           2     0.9977    0.9984    0.9980      5560
+
+    accuracy                         0.9949     13227
+   macro avg     0.9925    0.9953    0.9939     13227
+weighted avg     0.9949    0.9949    0.9949     13227
+
+Epoch 2, train loss: 0.0106, val accuracy: 0.9921
+              precision    recall  f1-score   support
+
+           0     0.9998    0.9808    0.9902      5273
+           1     0.9880    0.9983    0.9931      2394
+           2     0.9867    1.0000    0.9933      5560
+
+    accuracy                         0.9921     13227
+   macro avg     0.9915    0.9931    0.9922     13227
+weighted avg     0.9922    0.9921    0.9921     13227
+
+Epoch 3, train loss: 0.0072, val accuracy: 0.9979
+              precision    recall  f1-score   support
+
+           0     0.9989    0.9962    0.9975      5273
+           1     0.9942    0.9983    0.9962      2394
+           2     0.9986    0.9993    0.9989      5560
+
+    accuracy                         0.9979     13227
+   macro avg     0.9972    0.9979    0.9976     13227
+weighted avg     0.9979    0.9979    0.9979     13227
+
+Epoch 4, train loss: 0.0043, val accuracy: 0.9969
+              precision    recall  f1-score   support
+
+           0     0.9996    0.9934    0.9965      5273
+           1     0.9909    0.9996    0.9952      2394
+           2     0.9969    0.9991    0.9980      5560
+
+    accuracy                         0.9969     13227
+   macro avg     0.9958    0.9973    0.9966     13227
+weighted avg     0.9969    0.9969    0.9969     13227
+
+Epoch 5, train loss: 0.0035, val accuracy: 0.9977
+              precision    recall  f1-score   support
+
+           0     0.9992    0.9953    0.9972      5273
+           1     0.9942    0.9987    0.9965      2394
+           2     0.9977    0.9995    0.9986      5560
+
+    accuracy                         0.9977     13227
+   macro avg     0.9970    0.9978    0.9974     13227
+weighted avg     0.9977    0.9977    0.9977     13227
+
+Epoch 6, train loss: 0.0023, val accuracy: 0.9971
+              precision    recall  f1-score   support
+
+           0     0.9994    0.9937    0.9966      5273
+           1     0.9934    0.9987    0.9960      2394
+           2     0.9966    0.9996    0.9981      5560
+
+    accuracy                         0.9971     13227
+   macro avg     0.9965    0.9974    0.9969     13227
+weighted avg     0.9971    0.9971    0.9971     13227
+
+Epoch 7, train loss: 0.0015, val accuracy: 0.9971
+              precision    recall  f1-score   support
+
+           0     0.9998    0.9934    0.9966      5273
+           1     0.9901    0.9996    0.9948      2394
+           2     0.9977    0.9996    0.9987      5560
+
+    accuracy                         0.9971     13227
+   macro avg     0.9958    0.9975    0.9967     13227
+weighted avg     0.9971    0.9971    0.9971     13227
+
+Epoch 8, train loss: 0.0010, val accuracy: 0.9977
+              precision    recall  f1-score   support
+
+           0     0.9998    0.9949    0.9973      5273
+           1     0.9921    0.9987    0.9954      2394
+           2     0.9982    1.0000    0.9991      5560
+
+    accuracy                         0.9977     13227
+   macro avg     0.9967    0.9979    0.9973     13227
+weighted avg     0.9977    0.9977    0.9977     13227
+
+Epoch 9, train loss: 0.0009, val accuracy: 0.9972
+              precision    recall  f1-score   support
+
+           0     0.9998    0.9937    0.9968      5273
+           1     0.9905    0.9983    0.9944      2394
+           2     0.9977    1.0000    0.9988      5560
+
+    accuracy                         0.9972     13227
+   macro avg     0.9960    0.9974    0.9967     13227
+weighted avg     0.9972    0.9972    0.9972     13227
+
+Epoch 10, train loss: 0.0004, val accuracy: 0.9975
+              precision    recall  f1-score   support
+
+           0     0.9998    0.9945    0.9971      5273
+           1     0.9917    0.9983    0.9950      2394
+           2     0.9978    1.0000    0.9989      5560
+
+    accuracy                         0.9975     13227
+   macro avg     0.9965    0.9976    0.9970     13227
+weighted avg     0.9975    0.9975    0.9975     13227
+
+Best accuracy: 0.9980
+              precision    recall  f1-score   support
+
+           0     0.9997    0.9959    0.9977      5784
+           1     0.9943    0.9977    0.9960      2640
+           2     0.9979    1.0000    0.9990      6272
+
+    accuracy                         0.9980     14696
+   macro avg     0.9973    0.9979    0.9976     14696
+weighted avg     0.9980    0.9980    0.9980     14696
+

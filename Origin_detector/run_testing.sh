@@ -1,0 +1,1 @@
+python test.py > testing_details/testing_log_three.txt

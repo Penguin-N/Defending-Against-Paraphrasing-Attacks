@@ -1,0 +1,1 @@
+python train.py > training_details/training_log_four.txt

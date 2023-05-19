@@ -1,0 +1,40 @@
+Loading best model from:  training_details/best_model_one.pt
+Testing on ../dataset/HC3-Parrot/test_para.json
+Best accuracy: 0.1307
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000         0
+           1     0.0000    0.0000    0.0000         0
+           2     1.0000    0.1307    0.2311      2985
+
+    accuracy                         0.1307      2985
+   macro avg     0.3333    0.0436    0.0770      2985
+weighted avg     1.0000    0.1307    0.2311      2985
+
+
+Testing on ../dataset/HC3-PEGASUS/test_para.json
+Best accuracy: 0.9970
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000         0
+           1     0.0000    0.0000    0.0000         0
+           2     1.0000    0.9970    0.9985      1000
+
+    accuracy                         0.9970      1000
+   macro avg     0.3333    0.3323    0.3328      1000
+weighted avg     1.0000    0.9970    0.9985      1000
+
+
+Testing on ../dataset/HC3-ChatGPT/test_para.json
+Best accuracy: 0.5850
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000         0
+           1     0.0000    0.0000    0.0000         0
+           2     1.0000    0.5850    0.7382      1000
+
+    accuracy                         0.5850      1000
+   macro avg     0.3333    0.1950    0.2461      1000
+weighted avg     1.0000    0.5850    0.7382      1000
+
+
